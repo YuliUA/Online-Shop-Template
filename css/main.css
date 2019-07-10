@@ -146,11 +146,11 @@
 }
 
 .newArrivals-bg {
-    background-image: url('/images/banner.jpg')
+    background-image: url('../images/banner.jpg')
 }
 
 .feturedProducts-bg {
-    background-image: url('/images/banner2.jpg')
+    background-image: url('../images/banner2.jpg')
 }
 
 .banner-tittle {
@@ -180,21 +180,21 @@
 }
 
 .banner-button-brand a:nth-child(1) {
-    background-image: url('/images/brand1.jpg')
+    background-image: url('../images/brand1.jpg')
 }
 
 .banner-button-brand a:nth-child(2) {
-    background-image: url('/images/brand2.jpg')
+    background-image: url('../images/brand2.jpg')
 }
 
 .banner-button-brand a:nth-child(3) {
-    background-image: url('/images/brand3.jpg')
+    background-image: url('../images/brand3.jpg')
 }
 
 .banner-button-brand a:nth-child(4) {
-    background-image: url('/images/brand4.jpg')
+    background-image: url('../images/brand4.jpg')
 }
 
 .banner-button-brand a:nth-child(5) {
-    background-image: url('/images/brand5.jpg')
+    background-image: url('../images/brand5.jpg')
 }
