@@ -1,0 +1,72 @@
+footer {
+    background-image: url('/images/footer.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 45px 0;
+    margin-top: 40px;
+}
+
+.footer-heading, .subscribe-button, .footer-navbar {
+    padding: 5px 0;
+}
+
+.subscribe-button {
+    margin: 35px 0;
+}
+
+.footer-heading h3 {
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.footer-heading p {
+    font-style: 15px;
+    color: #898989;
+    line-height: 22px;
+}
+
+input[type=email] {
+    width: 250px;
+    height: 35px;
+    border-radius: 4px;
+    border: 1px solid #c824f7;
+    color: #cc44cc;
+    background-color: transparent;
+    text-align: center;
+    font-weight: 600;
+}
+
+input[type=submit] {
+    padding: 12px 25px;
+    background-color: #c824f7;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.footer-navbar {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    margin: 0 auto
+}
+
+.footer-navbar li:not(:first-child) {
+    margin-left: 5%;
+}
+
+.footer-navbar li a {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.copyright {
+    color: #889988;
+    margin: 30px 0 0;
+    font-size: 15px;
+}

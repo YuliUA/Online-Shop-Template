@@ -1,0 +1,97 @@
+.header {
+    display: flex;
+    width: 100%;
+    padding: 30px 60px;
+}
+
+.header .logo {
+    width: 100px;
+}
+
+.header .menu {
+    margin-left: 70px;
+    display: flex;
+}
+
+.cart {
+    margin-left: auto;
+}
+
+.menu-item {
+    margin-right: 15px;
+}
+
+.menu-link {
+    color: #52575d;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.slider {
+    width: 100%;
+    position: relative;
+}
+
+.slider img {
+    max-width: 100%;
+}
+
+.slider .slider-text {
+    width: 500px;
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    left: 60px;
+}
+
+.slider-text h1 {
+    font-size: 60px;
+    color: #222222;
+    font-family: "Tw Cen";
+}
+
+.slider .slider-text p {
+    font-size: 16px;
+    color: #52575d;
+    padding: 10px 0;
+    line-height: 28px
+}
+
+.slider .slider-text a {
+    width: 150px;
+    height: 45px;
+    background-color: #c824f7;
+    display: inline-block;
+    text-align: center;
+    line-height: 45px;
+    font-style: 20px;
+    color: #ffffff;
+    text-decoration: none;
+    margin-top: 25px;
+    font-weight: 600;
+}
+
+/********* MOBILE NAVBAR **********/
+
+.mobile-nav {
+    display: none;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+}
+
+.mobile-nav-icon {
+    width: 30px;
+    height: 30px;
+    border: 1px solid #52575d;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.mobile-nav-icon span {
+    width: 80%;
+    border-bottom: 2px solid #52575d;
+    margin: 7% auto;
+}

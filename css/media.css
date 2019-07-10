@@ -1,0 +1,56 @@
+@media all and (max-width: 960px) {
+    .slider .slider-text {
+        width: 300px;
+        top: 20%;
+    }
+    .slider-text h1 {
+        font-size: 40px;
+    }
+    .slider .slider-text p {
+        font-size: 16px;
+        color: #52575d;
+        padding: 10px 0;
+        line-height: 21px
+    }
+    .slider .slider-text a {
+        margin-top: 20px;
+    }
+    .banner-tittle {
+        font-size: 30px;
+    }
+    .item {
+        width: 45%
+    }
+    .footer-navbar {
+        width: 80%
+    }
+    .copyright {
+        font-size: 11px;
+        font-weight: 100;
+    }
+}
+
+@media all and (max-width: 760px) {
+    .header {
+        padding: 30px 20px 30px 60px;
+    }
+    .slider .slider-text p {
+        display: none;
+    }
+    .logo {
+        margin: 0 auto;
+    }
+    .cart {
+        width: auto;
+        margin-left: 0;
+    }
+    .desktop-nav {
+        display: none;
+    }
+    .mobile-nav {
+        display: block;
+    }
+    .banner-button-brand {
+        flex-wrap: wrap;
+    }
+}
