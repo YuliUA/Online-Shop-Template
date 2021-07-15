@@ -15,13 +15,17 @@
             <label class="block pb-2 text-grey-darkest">URLs des backlinks (un par ligne)</label>
             <textarea class="w-full bg-blue-lightest p-2 border border-blue" rows="10" name="urls" placeholder=""></textarea>
         </div>
-
         <button type="submit" class="bg-blue-dark hover:bg-blue text-white rounded px-4 py-2">Vérifier</button>
     </form>
 </div>
 <div class="container mx-auto text-grey-darker text-center py-2 text-sm">
     Simple Backlink Check is open-sourced software licensed under the <a class="text-black no-underline"href="https://opensource.org/licenses/MIT">MIT license</a>. 
     This tool is freely provided by <a class="text-black no-underline"href="https://soumettre.fr">Soumettre.fr : Netlinking as a Service</a>
+<a class="text-black no-underline"href="https://www.lazada.co.id/alfazza-fashion1626239530/">Alfazza Fashion : Netlinking as a Service</a>
+<a class="text-black no-underline"href="https://www.lazada.co.id/ayuni-grossir/">Ayuni Grossir : Netlinking as a Service</a>
+<a class="text-black no-underline"href="https://www.lazada.co.id/hanifa-78/">Hanifa 78 : Netlinking as a Service</a>
+<a class="text-black no-underline"href="https://www.lazada.co.id/raihan-fashion-store/">Raihan Fashion Store : Netlinking as a Service</a>
+<a class="text-black no-underline"href="https://www.lazada.co.id/nurrahma-olshop/">Nurrahma-Olshop : Netlinking as a Service</a>
 </div>
 </body>
 </html>
