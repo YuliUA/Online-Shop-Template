@@ -1,0 +1,17 @@
+<html>
+<head>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+    var ping = new Date;
+
+    $.ajax({
+        url: "ping-server.html",
+        cache:false,
+        success: function(output){ 
+            ping = new Date - ping;
+            Console.log("Ping/Latency: " + ping);
+        }
+    });
+</script>
+</head>
+</html>
